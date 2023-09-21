@@ -1,6 +1,6 @@
 # myFirstRepo
 first repository for class
-Create a document with the following items: 
+
 # this is h1
 ## this is h2
 ### this is h3
@@ -12,8 +12,10 @@ Create a document with the following items:
 2. this should be item two
 3. this should be item three
 
+```
 {
-  This is a fenced block. Reminds me of HTML. 
+ This is a fenced block. Reminds me of HTML. 
 }
+```
 
 ~~Nobody can see this because I've crossed it out.~~

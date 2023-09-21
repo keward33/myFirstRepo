@@ -14,10 +14,7 @@ first repository for class
 
 ```
 {
- This is a fenced block. Reminds me of HTML.
- <body>
-  Hello world.
- </body>
+ This is a fenced block. Reminds me of HTML except we don't have the doctype thing.
 }
 ```
 
